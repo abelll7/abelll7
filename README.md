@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abel Anto
-- 🌱 Experience of 6 months of internship
+- 🌱 Experience of 6 months of internship in innodatatics,Hyderabad
 - 👀 I’m interested in making awesome things for awesome people
-- 🌱 I’m currently learning CNN ,RNN, LSTM and many more advance architectures
+- 🌱 I’m currently learning CNN ,RNN, LSTM,BERT,Word2Vec and many more advance architectures
 - 💞️ I’m looking for a permanent job where i can  show case my data science skills and learn more new techniques to solve the problems of people 
 - 📫 How to reach me http://www.linkedin.com/in/abel007/
 
